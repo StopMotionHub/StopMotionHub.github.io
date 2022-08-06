@@ -226,3 +226,8 @@ li{
   color: #008384;
   text-align: center;
 }
+
+#HomePic{
+  width: 600px;
+  height: auto;
+}
